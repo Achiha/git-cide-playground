@@ -2,6 +2,9 @@
 
 ---
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7adda550-d769-4672-803e-9f301853f924/deploy-status)](https://app.netlify.com/sites/creative-piroshki-281905/deploys)
+
 ### Author Links
 
 👋 Hello, I'm Dave Gray.
